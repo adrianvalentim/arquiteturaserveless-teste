@@ -1,0 +1,2 @@
+O objetivo da arquitetura seria criar um sistema de microserviços serveless para lidar com as transações de compra de ingressos.
+Tive como inspiração a arquitetura de serviços em cloud que é possível utilizando a AWS.
